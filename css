@@ -1,0 +1,204 @@
+body {
+  background-color: rgb(252, 225, 216);
+}
+
+h1 {
+  color: rgb(255, 246, 242);
+  font-size: 100px;
+  margin: -5px;
+}
+
+p1 {
+  color: rgb(252, 150, 132);
+
+}
+
+.fadein img{
+opacity:0.5;
+transition: 1s ease;
+}
+
+.fadein img:hover{
+opacity:1;
+transition: 1s ease;
+}
+
+.summer-tea {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.peach-picnic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.fruits-blanket {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.shades {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.peach-drinks {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.roses {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.golden-hour {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.orange-glass {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.orange-books {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.pond {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.textbook {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.tyler {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.coding {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.room {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.fruits {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.pink-light {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.boat {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.market {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.rose-book {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.milk-tea {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.shadow {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.iced-tea {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.window {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.flowers {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.cats {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.garden {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.plants {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.living-room {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.art {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.orange-slices {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
