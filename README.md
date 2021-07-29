@@ -1,2 +1,2 @@
 # Photo-Gallery
-Second night hack with Kode w/ Klossy! 
+Second night hack with Kode w/ Klossy
